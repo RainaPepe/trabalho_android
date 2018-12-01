@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">trabalhoLista</string>
+    <string name="title_activity_digimon_list">DigimonList</string>
+    <string name="title_activity_digimon_detalhe">DigimonDetalhe</string>
+</resources>
